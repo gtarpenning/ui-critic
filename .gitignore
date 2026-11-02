@@ -1,0 +1,4 @@
+eval/runs/
+__pycache__/
+.claude/
+.DS_Store

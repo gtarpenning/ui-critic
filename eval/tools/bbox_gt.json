@@ -1,0 +1,722 @@
+[
+{
+"shot": "f9b6c18_f_home",
+"text": "Home",
+"tag": "H1",
+"act": "",
+"box": [
+40,
+139,
+230,
+213
+]
+},
+{
+"shot": "f9b6c18_f_home",
+"text": "SD Space Dust IPA Priya 9.0 \u00b7 +2",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+32,
+306,
+308,
+692
+]
+},
+{
+"shot": "f9b6c18_f_home",
+"text": "CB Chimay Blue Jules 9.2 \u00b7 +1",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+324,
+306,
+600,
+692
+]
+},
+{
+"shot": "f9b6c18_f_home",
+"text": "P Priya Shah 12m",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+771,
+748,
+874
+]
+},
+{
+"shot": "f9b6c18_f_home",
+"text": "Top rated",
+"tag": "BUTTON",
+"act": "openTop",
+"box": [
+652,
+132,
+740,
+220
+]
+},
+{
+"shot": "f9b6c18_f_post",
+"text": "Had it too",
+"tag": "BUTTON",
+"act": "hadItToo",
+"box": [
+32,
+1302,
+283,
+1378
+]
+},
+{
+"shot": "f9b6c18_f_post",
+"text": "Want to try",
+"tag": "BUTTON",
+"act": "want",
+"box": [
+299,
+1302,
+375,
+1378
+]
+},
+{
+"shot": "f9b6c18_f_post",
+"text": "3",
+"tag": "BUTTON",
+"act": "react",
+"box": [
+32,
+1402,
+96,
+1456
+]
+},
+{
+"shot": "f9b6c18_f_post",
+"text": "2",
+"tag": "BUTTON",
+"act": "openFeed",
+"box": [
+230,
+1402,
+294,
+1456
+]
+},
+{
+"shot": "f9b6c18_f_post",
+"text": "Where: Zeitgeist, SF",
+"tag": "BUTTON",
+"act": "toast",
+"box": [
+56,
+959,
+232,
+1091
+]
+},
+{
+"shot": "f9b6c18_f_mylist",
+"text": "5 LI Lagunitas IPA Lagunitas \u00b7 IPA 6.8",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+1125,
+748,
+1261
+]
+},
+{
+"shot": "f9b6c18_f_mylist",
+"text": "My List",
+"tag": "H1",
+"act": "",
+"box": [
+40,
+132,
+270,
+207
+]
+},
+{
+"shot": "f9b6c18_f_mylist",
+"text": "1 AW Allagash White Allagash \u00b7 Witbier 9.8",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+453,
+748,
+589
+]
+},
+{
+"shot": "f9b6c18_f_mylist",
+"text": "3 FP Fort Point KSA Fort Point \u00b7 K\u00f6lsch 8.1",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+748,
+748,
+885
+]
+},
+{
+"shot": "f9b6c18_f_mylist",
+"text": "Top rated on Beeri",
+"tag": "DIV",
+"act": "openTop",
+"box": [
+32,
+239,
+748,
+351
+]
+},
+{
+"shot": "f9b6c18_f_profile",
+"text": "Want to try 2",
+"tag": "DIV",
+"act": "openWant",
+"box": [
+32,
+703,
+748,
+815
+]
+},
+{
+"shot": "f9b6c18_f_profile",
+"text": "Profile",
+"tag": "H1",
+"act": "",
+"box": [
+40,
+132,
+248,
+207
+]
+},
+{
+"shot": "f9b6c18_f_profile",
+"text": "AW 1 Allagash White 9.8",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+32,
+1106,
+260,
+1406
+]
+},
+{
+"shot": "f9b6c18_f_profile",
+"text": "HL 2 Hazy Little Thing 8.9",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+276,
+1106,
+504,
+1406
+]
+},
+{
+"shot": "f9b6c18_f_profile",
+"text": "FP 3 Fort Point KSA 8.1",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+520,
+1106,
+748,
+1406
+]
+},
+{
+"shot": "f9b6c18_f_top",
+"text": "3 HN High Noon Peach High Noon \u00b7 Canned Cocktail 8.4 7 ratin",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+570,
+748,
+772
+]
+},
+{
+"shot": "f9b6c18_f_top",
+"text": "6 YL Yuengling Lager Yuengling \u00b7 Amber Lager 7.7 4 ratings",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+1134,
+748,
+1293
+]
+},
+{
+"shot": "f9b6c18_f_top",
+"text": "5 GD Guinness Draught Guinness \u00b7 Irish Stout \u00b7 You 7.2 8.2 3",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+931,
+748,
+1134
+]
+},
+{
+"shot": "f9b6c18_f_top",
+"text": "2 SD Space Dust IPA Elysian \u00b7 IPA 8.7 6 ratings",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+427,
+748,
+570
+]
+},
+{
+"shot": "f9b6c18_f_top",
+"text": "Back",
+"tag": "BUTTON",
+"act": "back",
+"box": [
+32,
+114,
+120,
+202
+]
+},
+{
+"shot": "f9b6c18_f_beer",
+"text": "8.5",
+"tag": "SPAN",
+"act": "",
+"box": [
+222,
+607,
+381,
+683
+]
+},
+{
+"shot": "f9b6c18_f_beer",
+"text": "8.5 8.7",
+"tag": "DIV",
+"act": "",
+"box": [
+32,
+607,
+748,
+683
+]
+},
+{
+"shot": "f9b6c18_f_beer",
+"text": "Back",
+"tag": "BUTTON",
+"act": "back",
+"box": [
+32,
+114,
+120,
+202
+]
+},
+{
+"shot": "f9b6c18_f_beer",
+"text": "Rank it",
+"tag": "DIV",
+"act": "rankBeer",
+"box": [
+32,
+731,
+748,
+843
+]
+},
+{
+"shot": "f9b6c18_f_beer",
+"text": "M Maya Chen 7.9",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+1337,
+748,
+1458
+]
+},
+{
+"shot": "f9b6c18_f_done",
+"text": "CB Chimay Blue Jules 9.2 \u00b7 +1",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+32,
+306,
+308,
+692
+]
+},
+{
+"shot": "f9b6c18_f_done",
+"text": "Friends 8.5 8.8",
+"tag": "DIV",
+"act": "",
+"box": [
+32,
+785,
+748,
+861
+]
+},
+{
+"shot": "f9b6c18_f_done",
+"text": "Friends 8.5",
+"tag": "SPAN",
+"act": "",
+"box": [
+191,
+785,
+412,
+861
+]
+},
+{
+"shot": "f9b6c18_f_done",
+"text": "MI Maharaja Imperial IPA Priya 9.1",
+"tag": "BUTTON",
+"act": "openBeer",
+"box": [
+324,
+306,
+600,
+692
+]
+},
+{
+"shot": "f9b6c18_f_done",
+"text": "Top rated",
+"tag": "BUTTON",
+"act": "openTop",
+"box": [
+652,
+132,
+740,
+220
+]
+},
+{
+"shot": "f9b6c18_f_friends",
+"text": "Friends",
+"tag": "H1",
+"act": "",
+"box": [
+40,
+139,
+279,
+213
+]
+},
+{
+"shot": "f9b6c18_f_friends",
+"text": "Activity",
+"tag": "BUTTON",
+"act": "toast",
+"box": [
+548,
+132,
+636,
+220
+]
+},
+{
+"shot": "f9b6c18_f_friends",
+"text": "M Maya Chen @mayac \u00b7 18 ranked",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+450,
+748,
+579
+]
+},
+{
+"shot": "f9b6c18_f_friends",
+"text": "J Jules Okafor @julesok \u00b7 31 ranked",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+322,
+748,
+450
+]
+},
+{
+"shot": "f9b6c18_f_friends",
+"text": "Add a friend",
+"tag": "BUTTON",
+"act": "invite",
+"box": [
+652,
+132,
+740,
+220
+]
+},
+{
+"shot": "f9b6c18_a_home",
+"text": "3",
+"tag": "BUTTON",
+"act": "react",
+"box": [
+152,
+1218,
+216,
+1273
+]
+},
+{
+"shot": "f9b6c18_a_home",
+"text": "MI Maharaja Imperial IPA Avery 9.1",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+570,
+748,
+701
+]
+},
+{
+"shot": "f9b6c18_a_home",
+"text": "1",
+"tag": "BUTTON",
+"act": "openFeed",
+"box": [
+318,
+1451,
+377,
+1505
+]
+},
+{
+"shot": "f9b6c18_a_home",
+"text": "Home",
+"tag": "H1",
+"act": "",
+"box": [
+40,
+132,
+230,
+207
+]
+},
+{
+"shot": "f9b6c18_a_home",
+"text": "CB Chimay Blue Chimay \u00b7 2 friends 9.2",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+439,
+748,
+570
+]
+},
+{
+"shot": "cc66c5b_b_post",
+"text": "Had it too",
+"tag": "BUTTON",
+"act": "hadItToo",
+"box": [
+64,
+437,
+315,
+513
+]
+},
+{
+"shot": "cc66c5b_b_post",
+"text": "8.7",
+"tag": "BUTTON",
+"act": "openTop",
+"box": [
+597,
+437,
+716,
+513
+]
+},
+{
+"shot": "cc66c5b_b_post",
+"text": "Want to try",
+"tag": "BUTTON",
+"act": "want",
+"box": [
+331,
+437,
+407,
+513
+]
+},
+{
+"shot": "cc66c5b_b_post",
+"text": "Back",
+"tag": "BUTTON",
+"act": "back",
+"box": [
+32,
+114,
+120,
+202
+]
+},
+{
+"shot": "cc66c5b_b_post",
+"text": "About this beer",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+1309,
+748,
+1421
+]
+},
+{
+"shot": "c513656_c_home",
+"text": "HN Maya",
+"tag": "BUTTON",
+"act": "openFeed",
+"box": [
+352,
+239,
+484,
+412
+]
+},
+{
+"shot": "c513656_c_home",
+"text": "Jules ranked Allagash White 3h You 9.8 Jules 8.8",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+212,
+1416,
+618,
+1539
+]
+},
+{
+"shot": "c513656_c_home",
+"text": "Had it too",
+"tag": "BUTTON",
+"act": "rankBeer",
+"box": [
+212,
+1110,
+415,
+1159
+]
+},
+{
+"shot": "c513656_c_home",
+"text": "1",
+"tag": "BUTTON",
+"act": "react",
+"box": [
+668,
+1496,
+720,
+1538
+]
+},
+{
+"shot": "c513656_c_home",
+"text": "AW Jules",
+"tag": "BUTTON",
+"act": "openFeed",
+"box": [
+512,
+239,
+644,
+412
+]
+},
+{
+"shot": "4227b5b_e_nophoto",
+"text": "D Dev Patel 2d",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+212,
+748,
+291
+]
+},
+{
+"shot": "4227b5b_e_nophoto",
+"text": "4.1",
+"tag": "BUTTON",
+"act": "openTop",
+"box": [
+629,
+616,
+748,
+692
+]
+},
+{
+"shot": "4227b5b_e_nophoto",
+"text": "J Jules Okafor 3.2",
+"tag": "DIV",
+"act": "openFriend",
+"box": [
+32,
+996,
+748,
+1117
+]
+},
+{
+"shot": "4227b5b_e_nophoto",
+"text": "Back",
+"tag": "BUTTON",
+"act": "back",
+"box": [
+32,
+114,
+120,
+202
+]
+},
+{
+"shot": "4227b5b_e_nophoto",
+"text": "About this beer",
+"tag": "DIV",
+"act": "openBeer",
+"box": [
+32,
+1165,
+748,
+1277
+]
+}
+]

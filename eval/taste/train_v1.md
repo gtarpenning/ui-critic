@@ -1,0 +1,9 @@
+- Show the answer, hide the bookkeeping. A score stands alone; how many people are behind it lives one tap away. "8.7", not "Everyone 8.7 · 8".
+- List rows and cards carry the minimum to recognize the item. Extra meta lines ("9 people rated it · 1 is a friend") are clutter even when true.
+- Say it once. Don't repeat a value already visible elsewhere on the screen.
+- One primary action on a screen. Secondary actions fold away or go. Don't offer a next step that isn't the normal flow.
+- Photos people took are the content and the reason to come back: show them big, even at the cost of density. A dense text feed or a compact row with thumbnails loses to a big photo card.
+- The same thing looks the same everywhere. A post opened from the feed should be that card, opened, not a new layout.
+- Keep the order: who, the photo, what it is, what they said, then actions. Stray labels and pills above the photo are disorder.
+- Related things sit tight; don't leave big gaps between a section and what it belongs to.
+- Scores use one consistent visual treatment; pills sharing a row are the same size.

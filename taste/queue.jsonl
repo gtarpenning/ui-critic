@@ -1,0 +1,21 @@
+{"id": "beeri-13", "context": "A social beer-ranking iPhone app: your own Profile tab", "a": "queue/beeri-13_a.png", "b": "queue/beeri-13_b.png", "source": "Beeri prototype"}
+{"id": "beeri-09", "context": "A social beer-ranking iPhone app: a friend's page", "a": "queue/beeri-09_a.png", "b": "queue/beeri-09_b.png", "source": "Beeri prototype"}
+{"id": "beeri-11", "context": "A social beer-ranking iPhone app: a friend's post opened from the feed", "a": "queue/beeri-11_a.png", "b": "queue/beeri-11_b.png", "source": "Beeri prototype"}
+{"id": "beeri-10", "context": "A social beer-ranking iPhone app: the screen right after ranking a beer", "a": "queue/beeri-10_a.png", "b": "queue/beeri-10_b.png", "source": "Beeri prototype"}
+{"id": "beeri-12", "context": "A social beer-ranking iPhone app: My List, your ranked beers", "a": "queue/beeri-12_a.png", "b": "queue/beeri-12_b.png", "source": "Beeri prototype"}
+{"id": "beeri-03", "context": "A social beer-ranking iPhone app: the page for one beer", "a": "queue/beeri-03_a.png", "b": "queue/beeri-03_b.png", "source": "Beeri prototype"}
+{"id": "beeri-00", "context": "A social beer-ranking iPhone app: a friend's post opened from the feed", "a": "queue/beeri-00_a.png", "b": "queue/beeri-00_b.png", "source": "Beeri prototype"}
+{"id": "beeri-08", "context": "A social beer-ranking iPhone app: a friend's post opened from the feed", "a": "queue/beeri-08_a.png", "b": "queue/beeri-08_b.png", "source": "Beeri prototype"}
+{"id": "beeri-02", "context": "A social beer-ranking iPhone app: your own Profile tab", "a": "queue/beeri-02_a.png", "b": "queue/beeri-02_b.png", "source": "Beeri prototype"}
+{"id": "beeri-04", "context": "A social beer-ranking iPhone app: the Friends tab", "a": "queue/beeri-04_a.png", "b": "queue/beeri-04_b.png", "source": "Beeri prototype"}
+{"id": "beeri-07", "context": "A social beer-ranking iPhone app: the Top rated list", "a": "queue/beeri-07_a.png", "b": "queue/beeri-07_b.png", "source": "Beeri prototype"}
+{"id": "beeri-13~repeat", "context": "A social beer-ranking iPhone app: your own Profile tab", "a": "queue/beeri-13_b.png", "b": "queue/beeri-13_a.png", "source": "Beeri prototype", "repeat_of": "beeri-13"}
+{"id": "beeri-09~repeat", "context": "A social beer-ranking iPhone app: a friend's page", "a": "queue/beeri-09_b.png", "b": "queue/beeri-09_a.png", "source": "Beeri prototype", "repeat_of": "beeri-09"}
+{"id": "beeri-11~repeat", "context": "A social beer-ranking iPhone app: a friend's post opened from the feed", "a": "queue/beeri-11_b.png", "b": "queue/beeri-11_a.png", "source": "Beeri prototype", "repeat_of": "beeri-11"}
+{"id": "beeri-01", "context": "A social beer-ranking iPhone app: My List, your ranked beers and the list of beers to try", "a": "queue/beeri-01_a.png", "b": "queue/beeri-01_b.png", "source": "Beeri prototype"}
+{"id": "beeri-15", "context": "A social beer-ranking iPhone app: the Home tab", "a": "queue/beeri-15_a.png", "b": "queue/beeri-15_b.png", "source": "Beeri prototype"}
+{"id": "beeri-05", "context": "A social beer-ranking iPhone app: the screen right after ranking a beer", "a": "queue/beeri-05_a.png", "b": "queue/beeri-05_b.png", "source": "Beeri prototype"}
+{"id": "beeri-06", "context": "A social beer-ranking iPhone app: My List, your ranked beers", "a": "queue/beeri-06_a.png", "b": "queue/beeri-06_b.png", "source": "Beeri prototype"}
+{"id": "beeri-14", "context": "A social beer-ranking iPhone app: the Home tab", "a": "queue/beeri-14_a.png", "b": "queue/beeri-14_b.png", "source": "Beeri prototype"}
+{"id": "beeri-10~repeat", "context": "A social beer-ranking iPhone app: the screen right after ranking a beer", "a": "queue/beeri-10_b.png", "b": "queue/beeri-10_a.png", "source": "Beeri prototype", "repeat_of": "beeri-10"}
+{"id": "beeri-12~repeat", "context": "A social beer-ranking iPhone app: My List, your ranked beers", "a": "queue/beeri-12_b.png", "b": "queue/beeri-12_a.png", "source": "Beeri prototype", "repeat_of": "beeri-12"}
