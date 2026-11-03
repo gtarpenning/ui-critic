@@ -39,3 +39,15 @@ On the rejected design, does a finding match the owner's stated reason? On the c
 ## Public data
 
 60 UIClip pairs: plain Claude 62%, careful procedure 56%. UIClip declares no license, so its images aren't in this repo.
+
+## Storyboards
+
+Three Beeri flows rendered from the prototype at `fb62fcb` (B · Photo-first), 11 screens in all, critiqued by the shipped skill with Sonnet, twice. The flows were rank a beer (camera, pick, how was it, compare, done), social (Home, a friend's post, the friend's page) and own (Profile, My List, Top rated).
+
+- **Boxes:** all 9 in the first run sat on what their finding described, checked by eye. In the rerun, the 3 boxes on new findings were checked and right; the other 6 nearly repeat the first run's coordinates.
+- **Decisions this prototype predates:** the own flow flagged all three in both runs (Top rated style and "You" scores, no My List link to Top rated, Settings as a bottom row).
+- **Stability:** own repeated all 3 findings; rank and social repeated their top 2 and changed the third.
+- **New calls on screens with no decision behind them:** the Done screen restates friends' scores three ways, and the compare step shows names where a tile would be recognized faster.
+- **Failure fixed:** in the first run the rank critic skipped most of the evidence (2 winner images, no rejected ones). `cases.py --sheet` now makes one chosen|rejected image per case, and on the rerun every critic read all four.
+
+About $0.25 per storyboard.
