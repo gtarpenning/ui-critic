@@ -27,8 +27,8 @@ Scripts live next to this file. Run them with `python3`; `prepare.py` and `annot
 ## Compare
 
 1. **Prepare.** `python3 scripts/prepare.py --out <tmp> <images...>`, then use the prepared copies. For a flow, each design is an ordered list of screens.
-2. **Get evidence.** Read `taste/taste.md`. Run `python3 scripts/cases.py --context "<what this screen is for>" --k 4`.
-3. **Judge twice, blind.** Spawn two sub-agents with no shared context, using the prompt in [references/judge.md](references/judge.md). One sees the designs in order X, Y labeled A, B; the other sees Y, X. Use Sonnet: Opus cost several times more and scored no better. Give each the case image paths and tell it to Read every image. Don't tell them which design you favor, who made which, or which is newer.
+2. **Get evidence.** Read `taste/taste.md`. Run `python3 scripts/cases.py --context "<what this screen is for>" --k 4 --sheet <tmp>/cases`. Each case gets one `sheet` image: chosen on the left, rejected on the right.
+3. **Judge twice, blind.** Spawn two sub-agents with no shared context, using the prompt in [references/judge.md](references/judge.md). One sees the designs in order X, Y labeled A, B; the other sees Y, X. Use Sonnet: Opus cost several times more and scored no better. Give each the case sheet paths and tell it to Read every sheet. Don't tell them which design you favor, who made which, or which is newer.
 
    More than two designs: compare the two strongest-looking pairwise, then the winner against the next. Don't ask for a ranking in one go.
 4. **Decide.**
@@ -48,7 +48,7 @@ Scripts live next to this file. Run them with `python3`; `prepare.py` and `annot
 ## Critique
 
 1. **Prepare** the screens as above, and note each one's pixel size. Coordinates only line up on the prepared copies.
-2. **Get evidence.** Read `taste/taste.md` and run `cases.py --k 4`, then Read both images of every case before looking at the new screens. The scores below assume you saw them.
+2. **Get evidence.** Read `taste/taste.md`, run `cases.py --k 4 --sheet <tmp>/cases`, and Read every case sheet before you look at the new screens. Don't skip this when the screens seem obvious: without the evidence this is generic advice, which scored far worse.
 3. **Review**, in this order:
    - What is the one thing someone came to this screen for? What must they grasp at a glance?
    - Go element by element: does this earn its place here, or could it be one tap away? Is anything said twice? Is the same kind of thing drawn two different ways, on this screen or elsewhere in the app? Is a second action competing with the main one? Would a picture be understood faster than the words?

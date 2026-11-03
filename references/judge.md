@@ -15,7 +15,7 @@ Evidence of their taste. Read every image path below with the Read tool before j
 </taste>
 
 Past decisions, newest and most similar first:
-{for each case: its context, Chosen: <path>, Rejected: <path>, Their reason: <reason>}
+{for each case: its context, Sheet: <sheet path> (chosen on the left, rejected on the right), Their reason: <reason>}
 
 The new choice:
 Design A: {path, or ordered paths for a flow}
